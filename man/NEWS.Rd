@@ -9,6 +9,13 @@ News for package \sQuote{rnnmf}
 \newcommand{\CRANpkg}{\href{https://cran.r-project.org/package=#1}{\pkg{#1}}}
 \newcommand{\rnnmf}{\CRANpkg{rnnmf}}
 }
+\section{\rnnmf{} Version 0.3.1 (2026-07-15) }{
+
+\itemize{
+\item CRAN emergency release (vignette cran check fails).
+}
+}
+
 \section{\rnnmf{} Initial Version 0.3.0 (2024-10-30) }{
 
 \itemize{

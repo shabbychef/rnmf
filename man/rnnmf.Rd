@@ -35,7 +35,7 @@ Arxiv pre-print (2024).  \doi{10.48550/arXiv.2410.22698}
 
 Pav, Steven E. "System and method for unmixing spectroscopic observations with nonnegative 
 matrix factorization." US Patent 8140272, 2012.
-\url{https://patentscope.wipo.int/search/en/detail.jsf?docId=US42758160}
+\url{https://patents.google.com/patent/US8140272B2/en?oq=8140272}
 }
 \seealso{
 Useful links:

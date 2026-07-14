@@ -4,7 +4,7 @@
 
 
 [![Build Status](https://github.com/shabbychef/rnnmf/workflows/R-CMD-check/badge.svg)](https://github.com/shabbychef/rnnmf/actions)
-[![codecov.io](http://codecov.io/github/shabbychef/rnnmf/coverage.svg?branch=master)](http://codecov.io/github/shabbychef/rnnmf?branch=master)
+[![codecov.io](https://app.codecov.io/github/shabbychef/rnnmf/coverage.svg?branch=master)](https://app.codecov.io/github/shabbychef/rnnmf?branch=master)
 [![CRAN](http://www.r-pkg.org/badges/version/rnnmf)](https://cran.r-project.org/package=rnnmf)
 [![Downloads](http://cranlogs.r-pkg.org/badges/rnnmf?color=green)](https://www.r-pkg.org:443/pkg/rnnmf)
 [![Total](http://cranlogs.r-pkg.org/badges/grand-total/rnnmf?color=green)](https://www.r-pkg.org:443/pkg/rnnmf)
@@ -127,6 +127,6 @@ test_a_bunch(Y_t, L_0, R_0, niter = 10000L) %>%
 ## See also
 
 * Lee, Daniel D. and Seung, H. Sebastian. [Algorithms for Non-negative Matrix Factorization](http://papers.nips.cc/paper/1861-algorithms-for-non-negative-matrix-factorization.pdf), 2001.
-* Pav, Steven E. [System and method for unmixing spectroscopic observations with nonnegative matrix factorization](https://patentscope.wipo.int/search/en/detail.jsf?docId=US42758160), 2012.
+* Pav, Steven E. [System and method for unmixing spectroscopic observations with nonnegative matrix factorization](https://patents.google.com/patent/US8140272B2/en?oq=8140272), 2012.
 * Pav, Steven E. [An Iterative Algorithm for Regularized Non-negative Matrix Factorizations](https://arxiv.org/abs/2410.22698), 2024.
 

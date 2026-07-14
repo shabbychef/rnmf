@@ -1,4 +1,8 @@
 
+2026-07-15 Steven E. Pav <shabbychef@gmail.com>
+* version 0.3.1 to CRAN.
+* CRAN emergency release (vignette cran check fails).
+
 2024-10-30 Steven E. Pav <shabbychef@gmail.com>
 * renaming rnnmf because rNMF was taken on CRAN.
 * version 0.3.0 to CRAN.

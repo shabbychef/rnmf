@@ -39,7 +39,7 @@
 #'
 #' Pav, Steven E. "System and method for unmixing spectroscopic observations with nonnegative 
 #' matrix factorization." US Patent 8140272, 2012.
-#' \url{https://patentscope.wipo.int/search/en/detail.jsf?docId=US42758160}
+#' \url{https://patents.google.com/patent/US8140272B2/en?oq=8140272}
 #'
 #' @name rnnmf
 #' @rdname rnnmf
@@ -61,6 +61,11 @@
 #'
 #' \newcommand{\CRANpkg}{\href{https://cran.r-project.org/package=#1}{\pkg{#1}}}
 #' \newcommand{\rnnmf}{\CRANpkg{rnnmf}}
+#'
+#' @section \rnnmf{} Version 0.3.1 (2026-07-15) :
+#' \itemize{
+#' \item CRAN emergency release (vignette cran check fails).
+#' }
 #'
 #' @section \rnnmf{} Initial Version 0.3.0 (2024-10-30) :
 #' \itemize{
