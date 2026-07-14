@@ -278,7 +278,7 @@ as an additive update which does not get stuck on zero values.
 %of cocktails.
 \end{abstract}%UNFOLD
 
-\nocite{LeeSeung,GonzalezZhang,pav_nmf,2024survey}
+\nocite{LeeSeung,GonzalezZhang,pav_nmf}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}%FOLDUP
